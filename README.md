@@ -10,7 +10,13 @@ The project is designed for **experimental market analytics, educational purpose
 
 ---
 
-# 🚀 What the System Does
+🚀 Live Dashboard
+
+https://ai-stock-market-analysis.streamlit.app
+
+---
+
+#  What the System Does
 
 The system automates the complete stock-analysis workflow:
 
